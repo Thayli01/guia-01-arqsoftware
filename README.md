@@ -2,6 +2,7 @@
 
 * **Nombre completo:** Thayli Yanasupo
 * **Correo institucional:** thayli.yanasupo.27@unsch.edu.pe
+* **Nombre de colaborador:** Keyla Jhazym Gutierrez
 
 ## Información del Curso
 * **Curso:** Arquitectura de Software
