@@ -16,10 +16,10 @@
 ## Evidencia de Pasos Realizados
 
 ### Paso 1: Verificar versiones
-![Captura de Versiones](docs/Versiones.png)
+![Captura de Versiones](docs/iimagen/Versiones.png)
 
 ### Paso 2: Configuración de Identidad en Git
-![Captura de Identidad en Git](docs/ConfiguraciónIdentidadGit.png)
+![Captura de Identidad en Git](docs/iimagen/ConfiguraciónIdentidadGit.png)
 
 ### Paso 3: Creación del proyecto y estructura
-![Captura de Estructura](docs/Estructura.png)
+![Captura de Estructura](docs/iimagen/Estructura.png)
